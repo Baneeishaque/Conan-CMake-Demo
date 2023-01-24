@@ -367,3 +367,6 @@ environment_run.sh.env
 # End of https://www.toptal.com/developers/gitignore/api/conan
 
 build.ninja
+
+conan.cmake
+conanfile.txt
